@@ -1,0 +1,10 @@
+Setup Ubuntu on Dell Inspiron Mini
+1. Intall Ubuntu / Lubuntu
+2. Pair laptop with phone and enable bluetooth tethering on phone
+3. Connect to internet on laptop using network corresponding to bluetooth pairing
+4. Run following command to install broadcom WiFi adapter drivers
+   firmware-b43-installer/cosmic
+5. Reboot the system
+
+
+
