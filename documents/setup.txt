@@ -5,6 +5,6 @@ Setup Ubuntu on Dell Inspiron Mini
 4. Run following command to install broadcom WiFi adapter drivers
    firmware-b43-installer/cosmic
 5. Reboot the system
-
+6. For enabling touchpad click, follow instructions at https://askubuntu.com/questions/1087328/lubuntu-18-10-how-to-activate-tap-to-click
 
 
