@@ -3,7 +3,7 @@ Setup Ubuntu on Dell Inspiron Mini
 2. Pair laptop with phone and enable bluetooth tethering on phone
 3. Connect to internet on laptop using network corresponding to bluetooth pairing
 4. Run following command to install broadcom WiFi adapter drivers
-   firmware-b43-installer/cosmic
+   sudo apt-get update && sudo apt-get install -y firmware-b43-installer
 5. Reboot the system
 6. For enabling touchpad click, follow instructions at https://askubuntu.com/questions/1087328/lubuntu-18-10-how-to-activate-tap-to-click
 
