@@ -1,4 +1,4 @@
-# Chowkidaar
+# HomeAutomation
 An artificial-intelligence based home security solution
 
 ## The Idea
